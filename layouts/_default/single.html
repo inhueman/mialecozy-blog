@@ -144,14 +144,14 @@
 
       </div>
 
-      <div class="col-lg-4">
-        <!-- widget -->
+   <!--Commented off the sidebar div   <div class="col-lg-4">
+     
         {{ $widget:= site.Params.widgets.sidebar }}
         {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) }}
       </div>
     </div>
   </div>
-</section>
+</section> -> 
 
 <!-- regular page -->
 {{ else }}
