@@ -74,7 +74,7 @@ username = ""  # your username
 
 # site verifications
 [site_verification]
-google = "" # Your verification code
+google = "G-WR79M7FFVQ" # Your verification code
 bing = ""   # Your verification code
 baidu = ""  # Your verification code
 

@@ -102,16 +102,16 @@ weight = 4
 
 # footer menu
 [[footer]]
-name = "facebook"
-URL = "/"
+name = "pinterest"
+URL = "https://www.pinterest.com/mialecozy"
 weight = 1
 
 [[footer]]
 name = "instagram"
-URL = "/"
+URL = "https://www.instagram.com/mialecozy/"
 weight = 2
 
 [[footer]]
-name = "twitter"
-URL = "/"
+name = "tiktok"
+URL = "https://www.tiktok.com/@mialecozyspaces"
 weight = 3
