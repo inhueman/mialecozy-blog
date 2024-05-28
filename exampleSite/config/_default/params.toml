@@ -6,7 +6,7 @@ logo = "images/miale-logo.png"
 logo_dark = "images/miale-logo-white.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "100px"
+logo_width = "175px"
 # logo text will only show when logo is missing.
 logo_text = "Miale Cozy Spaces"
 # navbar fixed to top
@@ -16,7 +16,7 @@ theme_switcher = true
 theme_default = "automatic" # available options [light/dark/automatic]
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Miale Cozy Spaces"
 
 # search
 search = true
