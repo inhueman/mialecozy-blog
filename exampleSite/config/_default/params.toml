@@ -2,13 +2,13 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
-logo_dark = "images/logo-white.png"
+logo = "images/miale-logo.png"
+logo_dark = "images/miale-logo-white.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "100px"
 # logo text will only show when logo is missing.
-logo_text = "Boilerplate"
+logo_text = "Miale Cozy Spaces"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,14 +27,14 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Statichunt"
-image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
+image = "images/miale-logo.png"                # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
 # contact info
-address = "House No: #32/A, 184 Main Collins Street, West Victoria New york, United State."
-phone = "+235725675, +343498759"
-email = "support@minilog.com"
+address = ""
+phone = ""
+email = "caretaker@mialecozy.online"
 
 # Main Sections
 mainSections = ["posts"]
@@ -96,27 +96,18 @@ sidebar = ["author", "categories", "tags", "newsletter"]
 # available widget : search,categories,tags,recent-post
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/mialecozy/"
 
 [[social]]
-title = "github"
+title = "pinterest"
 icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.pinterest.com/mialecozy/"
 
 [[social]]
-title = "linkedin"
-icon = "fas fa-envelope" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "tiktok"
+icon = "fas fa-tiktok" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.tiktok.com/@mialecozyspaces"
