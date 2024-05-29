@@ -23,7 +23,7 @@ search = true
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script = ""
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-WR79M7FFVQ" # example: G-XXXXXXXXXX
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Statichunt"
@@ -74,7 +74,7 @@ username = ""  # your username
 
 # site verifications
 [site_verification]
-google = "G-WR79M7FFVQ" # Your verification code
+google = "" # Your verification code
 bing = ""   # Your verification code
 baidu = ""  # Your verification code
 
@@ -86,7 +86,7 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 # cookies
 [cookies]
 enable = false
-expire_days = 2
+expire_days = 7
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
